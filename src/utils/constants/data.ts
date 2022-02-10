@@ -7,7 +7,7 @@ export const data = {
       "color": "hsl(340, 70%, 50%)",
       "children": [
         {
-          "name": "Caixa",
+          "name": "Caixa Dois",
           "color": "hsl(249, 70%, 50%)",
           "loc": 10
         },
@@ -20,7 +20,7 @@ export const data = {
         {
           "name": "Juros",
           "color": "hsl(249, 70%, 50%)",
-          "loc": 10
+          "loc": 20
         },
         {
           "name": "Inflação",
@@ -50,7 +50,7 @@ export const data = {
       "color": "hsl(231, 70%, 50%)",
       "children": [
         {
-          "name": "Fundos Imobiliários",
+          "name": "Fundos Imobiliários Dois",
           "color": "hsl(47, 70%, 50%)",
           "loc": 10
         },
@@ -76,7 +76,7 @@ export const data = {
           "loc": 2.5
         },
         {
-          "name": "Renda Fixa",
+          "name": "Renda Fixa Sub",
           "color": "hsl(111, 70%, 50%)",
           "loc": 5
         },
